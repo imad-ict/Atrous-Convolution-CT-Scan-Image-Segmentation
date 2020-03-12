@@ -9,3 +9,7 @@ Cleaning Filtering and Labeling the Data.
 
 ## 3rd Phase of Porject:
 Mapping and Training of Data.
+
+
+
+The project is following up on the latest research: https://pubs.rsna.org/doi/10.1148/radiol.2020200642
